@@ -1,3 +1,8 @@
-h1 {
-    color: red;
+body{
+    background-color: rgb(0, 255, 195);
+}
+
+h1{
+    text-align: center
+    
 }
