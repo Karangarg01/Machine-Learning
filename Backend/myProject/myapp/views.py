@@ -8,3 +8,6 @@ def home(request):
 
 def about(request):
     return HttpResponse('<h1> This is the About Page </h1>')
+
+def funct():
+    pass
